@@ -1,0 +1,14 @@
+MenuID,Name,Prize,Category,Description
+MID101,Berries,12.0,Breakfast,good
+MID102,Eggs,8.0,Breakfast,good
+MID103,GreenTea,13.0,Breakfast,good
+MID104,FingerChicken,12.0,Non-Veg,good
+MID105,Chicken Grilled,13.0,Non-Veg,good
+MID106,Chicken Wrap,8.0,Non-Veg,good
+MID107,Black Forest Gateau,12.0,Cake,good
+MID108,Eggless Truffle cake,13.0,Cake,good
+MID109,Orange Juice,10.0,Juice,good
+MID110,Apple Juice,20.0,Juice,good
+MID111,Makhni Paneer Biryani,10.0,Veg,good
+MID112,Gobi Manchurian,10.0,Veg,good
+MID113,Chicken lolipop,30.0,Non-veg,very spicy
